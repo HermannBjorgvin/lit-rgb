@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="84"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lit.svg"
+   inkscape:export-filename="C:\xampp\htdocs\lit\lit.png"
+   inkscape:export-xdpi="375"
+   inkscape:export-ydpi="375">
+  <title
+     id="title4040">lit logo</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6381"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d72929;stop-opacity:1;"
+         offset="0"
+         id="stop6383" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="21.544225"
+     inkscape:cy="11.033501"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1272"
+     inkscape:window-y="1073"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     showguides="false"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>lit logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="fill:#0031ff;fill-opacity:1;stroke:none"
+       d="M 11.999987,1028.3634 0,1052.3622 l 22.00002,0 2.99996,-6.0034 -13.999964,0 8.999964,-17.9954 z"
+       id="path2987-2-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       class="arm-2"
+       style="fill:#ffe400;fill-opacity:1;stroke:none"
+       d="m 14,1040.3622 63.99999,0 2.999941,-6.0035 -63.999931,0 z"
+       id="path2995-5-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="arm-3"
+       style="fill:#60cc28;fill-opacity:1;stroke:none"
+       d="m 11,1046.3622 64,0 3,-6 -64,0 z"
+       id="path2995-5-2-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="arm-4"
+       style="fill:#0031ff;fill-opacity:1;stroke:none"
+       d="m 38.00002,1052.3622 34.000068,0 2.999824,-6.0034 -33.999932,0 z"
+       id="path2995-5-2-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="arm-1"
+       style="fill:#ff2de7;fill-opacity:1;stroke:none;opacity:1"
+       d="m 30.000017,1052.3622 8.999944,-18.0015 -21.999941,0 2.99996,-5.9973 64.00002,0 -3.000069,5.9973 -33.999857,0 -9.000054,18.0015 z"
+       id="path2993-5-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffef;fill-opacity:1;stroke:none;opacity:1"
+       d="m 22.00002,1052.3622 8.999964,-18.0015 7.999977,0 -8.999944,18.0015 z"
+       id="path2989-4-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
